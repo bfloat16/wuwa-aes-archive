@@ -602,6 +602,29 @@ ___
 | pakchunk-105 | TBD | iOS & iPad OS | CN |
 | pakchunk-106 | TBD | iOS & iPad OS | CN |
 
+## 3.3 (Reverbs From the End of Galaxies)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | TBD | Windows | OS |
+| pakchunk-101 | TBD | Windows | OS |
+| pakchunk-102 | TBD | Windows | OS |
+| pakchunk-103 | TBD | Windows | OS |
+| pakchunk-104 | TBD | Windows | OS |
+| pakchunk-105 | TBD | Windows | OS |
+| pakchunk-106 | TBD | Windows | OS |
+| pakchunk-107 | TBD | Windows | OS |
+| pakchunk-108 | TBD | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+| pakchunk-101 | 0x5600FC2F1E7655519FC8B7395FF4BA435A65C805CB648440E0B271C1B35D87DD | Windows | CN |
+| pakchunk-102 | 0xF42ACF2FAB32EB64BC187C35C9ACFAA7743A5308AA3D90D064E97B21A046E6AB | Windows | CN |
+| pakchunk-103 | 0x64DF3D914A3474F26D711956B995D71351B02A320DABC49FE63798EB058419B0 | Windows | CN |
+| pakchunk-104 | 0xEB19EB1125072C2E20A6262EE0393F2761899A6D811DFDBFC31CBB5DCE308D70 | Windows | CN |
+| pakchunk-105 | 0x6E0B5A00096929F5CF1E15F32BA79F3D366D9C6DD499725CEB9779F143EE98AE | Windows | CN |
+| pakchunk-106 | 0x44DF33EB2E3481474AFB3D8A1FC70A49F21806CF34CE70A26A6EB05E41265596 | Windows | CN |
+| pakchunk-107 | 0x77423C0D81B83100D39D2C138F1AA94F648FC852FF8BDFBDC9BC2A62469FD007 | Windows | CN |
+| pakchunk-108 | TBD | Windows | CN |
+
 To decrypt the new video PAKs added since version 3.2, please refer to the [Important Note](https://github.com/ClostroOffi/wuwa-aes-archive/#important-note) section.
 
 ___
